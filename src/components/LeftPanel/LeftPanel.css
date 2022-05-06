@@ -1,0 +1,25 @@
+.LeftPanel{
+    width: 280px;
+    height:100vh;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.logo{
+    display: inline;
+    align-items: center;
+}
+
+.title{
+    display: inline;
+    margin: 5px;
+    font-size:27px;
+    font-weight: bold;
+}
+.sidemenu{
+    margin-top: 150px;
+}
+.button{
+    margin-top: 450px;
+}
