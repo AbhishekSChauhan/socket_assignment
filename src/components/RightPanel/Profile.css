@@ -46,3 +46,16 @@
 
     color: #A2A2C2;
 }
+.add-icon{
+    position: absolute;
+    width: 12px;
+    height: 29px;
+    left: 118px;
+    top: 105px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: blue;
+    
+}
