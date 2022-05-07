@@ -1,3 +1,15 @@
 .button{
-    background-color: blue;
+    /* Rectangle 18 */
+
+position: absolute;
+width: 164px;
+height: 40px;
+left: 75px;
+bottom: 40px;
+
+/* blue */
+background: #5E81F4;
+border: 2px solid #5E81F4;
+border-radius: 14px;
+
 }

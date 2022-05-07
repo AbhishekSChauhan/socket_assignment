@@ -1,0 +1,32 @@
+.menu{
+    display: flex;
+    align-items:flex-end;
+    margin-top: 10px;
+}
+li{
+    list-style: none;
+    text-align: left;
+    align-items: center;
+    padding: 10px;
+}
+li > a{
+    text-decoration: none;
+    font-size: large;
+    color: gray;
+    position: absolute;
+    
+    left:118px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    /* line-height: 40px; */
+    color: #111026;
+}
+a:active{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+
+

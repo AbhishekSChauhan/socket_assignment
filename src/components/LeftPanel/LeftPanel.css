@@ -3,23 +3,41 @@
     height:100vh;
     background-color: #fff;
     text-align: center;
-    padding-top: 40px;
+    /* padding-top: 40px; */
 }
-
-.logo{
-    display: inline;
-    align-items: center;
+.logo-container{   
+    padding-top: 25px; 
 }
 
 .title{
-    display: inline;
-    margin: 5px;
-    font-size:27px;
-    font-weight: bold;
+    position: absolute;
+    width: 114px;
+    height: 45px;
+    left: 135px;
+    top: 10px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 40px;
+    color: #111026;
 }
+
+.logo{
+    position: absolute;
+    left: 4.48%;
+    right: 93.28%;
+    top: 4.54%;
+    bottom: 91.48%;
+}
+
 .sidemenu{
-    margin-top: 150px;
+    position: fixed;
+    top:20%;
+    left: 2%;
 }
 .button{
-    margin-top: 450px;
+    position: fixed;
+    bottom: 8%;
+    left: 7%;
 }

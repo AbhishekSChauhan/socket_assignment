@@ -11,7 +11,9 @@ const Dashboard = () => {
         </div>
 
         <div className='main'>
+          <div className='main-container'>
             <MainContent />
+          </div>            
         </div>
 
         <div className="rightPanel">

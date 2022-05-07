@@ -1,8 +1,13 @@
 import React from 'react'
+import Logout from './Logout'
 import './RightPanel.css'
 const RightPanel = () => {
   return (
-    <div className='RightPanel'>RightPanel</div>
+    <div className='RightPanel'>
+      <div>
+        <Logout />
+      </div>
+    </div>
   )
 }
 

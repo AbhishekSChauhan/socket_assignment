@@ -1,0 +1,8 @@
+.mainContent{
+    width: 50%;
+    height: 50%;
+    top: 25%;
+    margin: 0 auto;
+    position: relative;
+    background:orange;
+}
