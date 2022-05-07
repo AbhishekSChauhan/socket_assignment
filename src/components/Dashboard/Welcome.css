@@ -1,0 +1,51 @@
+.welcome-container{
+    position: absolute;
+    width: 780px;
+    height: 160px;
+    left: 10px;
+    top: 120px;
+    text-align: left;
+    background: #F7E5E9;
+    border-radius: 17px;
+}
+.welcome-greet{
+    position: absolute;
+    width: 277px;
+    height: 38px;
+    left: 60px;
+    top: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #FF808B;
+}
+
+.welcome-msg{
+    position: absolute;
+    width: 380px;
+    height: 27px;
+    left: 60px;
+    top: 80px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;    
+}
+
+.welcome-msg2{
+    position: absolute;
+    width: 324px;
+    height: 27px;
+    left: 60px;
+    top:  105px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    
+    color: #000000;
+    
+    }
