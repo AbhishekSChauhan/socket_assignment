@@ -1,0 +1,22 @@
+.search-container{
+    padding: 25px;
+    position: relative;
+}
+.date{
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    right: 65px;
+    top: 38px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+
+    color: #111026;
+
+}
+.search-box{
+    position: absolute;
+    right:0px
+}

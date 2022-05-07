@@ -1,10 +1,14 @@
 import React from 'react'
 import Courses from './Courses'
+import Search from './Search'
 import Stats from './Stats'
 import WelcomeComp from './WelcomeComp'
 const MainContent = () => {
   return (
     <div className='mainContent'>
+        <div>
+          <Search />
+        </div>
         <div>
           <WelcomeComp />
         </div>
