@@ -1,10 +1,10 @@
 import React from 'react'
 import Box from '../Box/Box'
 import './SingleCourses.css'
-const SingleCourses = ({status,bgColor,textColour,course,specification}) => {
+const SingleCourses = ({status,bgColor,textColour,course,specification,courseBgColor}) => {
   return (
-    <div className='single-course-container'>
-        <div className='box-content'>
+    <div className='single-course-container' style={{backgroundColor:`${courseBgColor}`}}>
+        <div className='single-box-content'>
             <Box status={status} textColour={textColour} bgColor={bgColor} />
         </div>
         <div >

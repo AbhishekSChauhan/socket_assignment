@@ -19,13 +19,13 @@ const Courses = () => {
         </svg>
       </div>
       <div className='course-1'>
-        <SingleCourses status='' bgColor='white' textColour='white' course='Business English' specification='Grammar' />
+        <SingleCourses status='B2' bgColor='white' textColour='white' course='Business English' specification='Grammar' courseBgColor='#4D4CAC' />
       </div>
       <div className='course-2'>
-        <SingleCourses  bgColor='white' textColour='white' course='Common English' specification='Phrasal Verbs' />
+        <SingleCourses status='B2' bgColor='white' textColour='white' course='Common English' specification='Phrasal Verbs' courseBgColor='#9698D6' />
       </div>
       <div className='course-3'>
-        <SingleCourses  bgColor='white' textColour='white' course='Business Spanish' specification='Vocabulary' />
+        <SingleCourses status='C1' bgColor='white' textColour='white' course='Business Spanish' specification='Vocabulary' courseBgColor='#FF808B'/>
       </div>
     </div>
   )

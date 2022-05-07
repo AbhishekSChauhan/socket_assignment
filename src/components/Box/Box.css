@@ -8,8 +8,8 @@
 }
 .box-content{
     position: absolute;
-    top:0px;
-    left:10px;
+    top:18px;
+    left:18px;
     display: flex;
     justify-content: center;
 
