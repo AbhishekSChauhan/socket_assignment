@@ -17,8 +17,7 @@ const SingleLanguage = ({status,language,level}) => {
         <div className='progress-gray'>
             <div className='progress'>
             </div>
-        </div>
-        
+        </div>        
     </div>
   )
 }
