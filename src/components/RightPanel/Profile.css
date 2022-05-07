@@ -1,36 +1,48 @@
+.profile-container{
+    width: 100%;
+    position: relative;
+}
 .avatar{
-    /* Ellipse 1 */
-
     box-sizing: border-box;
 
     position: absolute;
-    width: 169px;
-    height: 171px;
-    left: 151px;
-    top: 130px;
+    width: 160px;
+    height: 160px;
+    left: 12px;
+    top: 20px;
 
-    background: url('https://images.pexels.com/photos/2406949/pexels-photo-2406949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    /* light blue */
+    background: url(https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-position: center;
     border: 7px solid #F5F5FB;
+    border-radius: 50%;
 
 }
-div.name{
+.name{
     position: absolute;
-    width: 141px;
+    width: 140px;
     height: 30px;
-    left: 1585px;
-    top: 331px;
+    left:25px;
+    top: 200px;
 
-    /* Headers */
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 30px;
-    /* identical to box height */
-
     color: #111026;
 }
-div{
-    background-color: #111026;
+.work{
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 63px;
+    top: 224px;
+
+    /* paragraph */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #A2A2C2;
 }

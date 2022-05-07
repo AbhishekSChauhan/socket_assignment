@@ -7,21 +7,21 @@
     /* padding-top: 40px; */
 }
 .logout-container{
-    padding-top: 25px; 
+    padding-top: 10px; 
 }
 .profile-container{
     position: absolute;
-    top: 15%;
-    left: 37%;
+    top: 6%;
+    left: 13%;
 }
 .language-container{
     position: absolute;
-    top: 35%;
+    top: 42.5%;
     left: 10%;
 }
 .langDeatails-container{
     position: absolute;
-    top: 62%;
+    top: 68%;
     left: 10%;
 
 }

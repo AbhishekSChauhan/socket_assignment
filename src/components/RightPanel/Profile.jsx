@@ -1,16 +1,14 @@
 import React from 'react'
-
+import './Profile.css'
 const Profile = () => {
   return (
-    <div>
+    <div className='profile-container'>
         <div className='avatar'>
-            Profile pic
-            {/* <img className='profile' src={''} alt="profile"/> */}
         </div>
         <div className='name'>
             Sadia Tasnim
         </div>
-        <div>Student</div>
+        <div className='work'>Student</div>
     </div>
   )
 }
