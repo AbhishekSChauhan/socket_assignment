@@ -15,6 +15,11 @@
     background-position: center;
     border: 7px solid #F5F5FB;
     border-radius: 50%;
+    display: inline-block;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 
 }
 .name{

@@ -1,18 +1,15 @@
 .heading{
-    /* Latest results */
+    position: absolute;
+    width: 113px;
+    height: 26px;
+    left: 20px;
+    top: 20px;
 
-position: absolute;
-width: 113px;
-height: 26px;
-left: 20px;
-top: 20px;
-
-font-style: normal;
-font-weight: 500;
-font-size: 17px;
-line-height: 26px;
-
-color: #111026;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 26px;
+    color: #111026;
 
 }
 .more-latest{
@@ -29,4 +26,15 @@ color: #111026;
 
     color: #111026;
 
+}
+
+hr {
+    display: block;
+    position: absolute;
+    top:100px;
+    width: 310px;
+    height: 0px;
+    border: 0;
+    margin: 0 25px;
+    border: 1px solid #000000;
 }

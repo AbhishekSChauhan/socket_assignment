@@ -1,7 +1,7 @@
 import React from 'react'
 import Box from '../Box/Box'
 import './SingleLanguage.css'
-const SingleLanguage = ({status,language,level}) => {
+const SingleLanguage = ({status,language,level,progressWidth}) => {
   return (
     <div className='single-language-container'>
         <div>
@@ -15,7 +15,7 @@ const SingleLanguage = ({status,language,level}) => {
         </div>
         
         <div className='progress-gray'>
-            <div className='progress'>
+            <div className='progress' style={{width:`${progressWidth}`}}>
             </div>
         </div>        
     </div>

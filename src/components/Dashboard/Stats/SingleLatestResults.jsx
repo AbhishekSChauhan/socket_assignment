@@ -1,6 +1,6 @@
 import React from 'react'
 import './SingleLatestResults.css'
-const SingleLatestResults = ({unit,topic,percent,percentColor}) => {
+const SingleLatestResults = ({unit,topic,percent}) => {
   return (        
     <div className='latest-result-container'>
         <div>
@@ -11,7 +11,7 @@ const SingleLatestResults = ({unit,topic,percent,percentColor}) => {
         </div>
         
         <div className='progress-res-gray'>
-            <div className='progress-res'>
+            <div className='progress-res' style={{width:`${percent}px`}}>
             </div>            
         </div> 
         <div className='percent' style={{color:percent >= 40 ? '#5E81F4':'#FF808B'}}>{percent}%</div>       
