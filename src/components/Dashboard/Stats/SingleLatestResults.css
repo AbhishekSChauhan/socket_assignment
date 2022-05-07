@@ -48,24 +48,21 @@ color: #111026;
     background: #5E81F4;
     border-radius: 5px;
 }
+
 .percent{
-    /* 25% */
+    position: absolute;
+    width: 29px;
+    height: 21px;
+    left: 310px;
+    top: 60px;
 
-position: absolute;
-width: 29px;
-height: 21px;
-left: 310px;
-top: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-
-/* red */
-color: #FF808B;
+    color: #FF808B;
 
 
 }

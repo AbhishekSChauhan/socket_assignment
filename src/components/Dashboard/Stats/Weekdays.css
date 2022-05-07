@@ -1,0 +1,267 @@
+.weekdays-container{
+    position: relative;
+    width: 255px;
+    height: 100px;  
+}
+.day1{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 45px;
+    top: 60px;
+
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+.day2{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 90px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+.day3{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 135px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+.day4{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 180px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+.day5{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 225px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+.day6{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 270px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+.day7{
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 315px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #A2A2C2;
+}
+
+
+
+
+
+.bar1{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: -40px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress1{
+    position: absolute;
+    width: 125px;
+    height: 5px;
+    background: #5E81F4;
+    border-radius: 5px;
+}
+
+.bar2{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 7px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress2{
+    position: absolute;
+    width: 55px;
+    height: 5px;
+    float: left;
+    background: #4D4CAC;
+    border-radius: 5px;
+}
+
+.bar3{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 55px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress3{
+    position: absolute;
+    width: 95px;
+    height: 5px;
+    float: left;
+    background: #FF808B;
+    border-radius: 5px;
+}
+
+.bar4{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 100px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress4{
+    position: absolute;
+    width: 90px;
+    height: 5px;
+    float: left;
+    background: #4D4CAC;
+    border-radius: 5px;
+}
+
+.bar5{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 145px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress5{
+    position: absolute;
+    width: 115px;
+    height: 5px;
+    float: left;
+    background: #FF808B;
+    border-radius: 5px;
+}
+
+.bar6{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 190px;
+    top: 190px;
+    float: left;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress6{
+    position: absolute;
+    width: 75px;
+    height: 5px;
+    float: left;
+    background: #5E81F4;
+    border-radius: 5px;
+}
+
+.bar7{
+    position: absolute;
+    width: 196px;
+    height: 5px;
+    left: 236px;
+    top: 190px;
+    float: right;
+    /* grey */
+    background: #C8C9E9;
+    border-radius: 5px;
+    transform: matrix(0, -1, -1, 0, 0, 0);
+}
+
+.bar-progress7{
+    position: absolute;
+    width: 155px;
+    height: 5px;
+    float: right;
+    background: #4D4CAC;
+    border-radius: 5px;
+}
+

@@ -4,8 +4,8 @@
 position: absolute;
 width: 202px;
 height: 26px;
-left: 10px;
-top: 10px;
+left: 20px;
+top: 20px;
 
 font-style: normal;
 font-weight: 500;
@@ -21,8 +21,8 @@ color: #111026;
     position: absolute;
     width: 100px;
     height: 24px;
-    right: 14px;
-    top: 10px;
+    right: 20px;
+    top: 23px;
     text-decoration: none;
 
     font-style: normal;
@@ -32,6 +32,56 @@ color: #111026;
     /* identical to box height */
     border: 0px;
     color: #111026;
+}
+.ind-1{
+    /* Ellipse 4 */
 
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 20px;
+    bottom: 45px;
+    border-radius: 6px;
+    background: #FF808B;
 
 }
+.ind-2{
+    /* Ellipse 4 */
+
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 120px;
+    bottom: 45px;
+    border-radius: 6px;
+    background: #4D4CAC;
+
+}
+.ind-3{
+    /* Ellipse 4 */
+
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 210px;
+    bottom: 45px;
+    border-radius: 6px;
+    background: #5E81F4;
+
+}
+.ind-4{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 300px;
+    bottom: 45px;
+    border-radius: 6px;
+    background: #C8C9E9;
+}
+
+.ind-Val{
+    position: absolute;
+    top:-6px;
+    left:15px;
+}
+

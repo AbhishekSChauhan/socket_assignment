@@ -18,11 +18,11 @@ const LatestResults = () => {
                 </defs>
             </svg>
         </div>
-        <SingleLatestResults unit='Unit 5' topic='Technology' percent={25} percentColor='#FF808B' />
-        <SingleLatestResults unit='Unit 12' topic='Ecology' percent={44} percentColor='#5E81F4' />
-        <SingleLatestResults unit='Unit 9' topic='Real Estate' percent={40} percentColor='#5E81F4' />
-        <SingleLatestResults unit='Unit 8' topic='Education' percent={15} percentColor='#5E81F4' />
-        <SingleLatestResults unit='Unit 16' topic='Job market' percent={75} percentColor='#5E81F4' />
+        <SingleLatestResults unit='Unit 5' topic='Technology' percent={25} />
+        <SingleLatestResults unit='Unit 12' topic='Ecology' percent={44} />
+        <SingleLatestResults unit='Unit 9' topic='Real Estate' percent={40} />
+        <SingleLatestResults unit='Unit 8' topic='Education' percent={15} />
+        <SingleLatestResults unit='Unit 16' topic='Job market' percent={75} />
 
     </div>
   )
