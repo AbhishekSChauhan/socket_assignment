@@ -1,0 +1,27 @@
+.latest-results-container{
+    /* Rectangle 6 */
+
+position: absolute;
+width: 360px;
+height: 380px;
+left: 10px;
+top: 218px;
+
+background: #FDFDFE;
+border-radius: 17px;
+
+}
+
+.time-spent-container{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 400px;
+height: 380px;
+right: 0px;
+top: 218px;
+
+background: #FDFDFE;
+border-radius: 18px;
+
+}

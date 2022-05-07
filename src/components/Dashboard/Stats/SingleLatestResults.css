@@ -1,0 +1,71 @@
+.latest-result-container{
+    padding: 33px;
+    width: 100%;
+    position: relative;
+    text-align: left;
+}
+.unit{
+    /* Unit 5 - Technology */
+
+position: absolute;
+width: 157px;
+height: 24px;
+left: 25px;
+top: 60px;
+
+/* paragraph */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+color: #111026;
+
+}
+
+.topic{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #A2A2C2;
+}
+.progress-res-gray{
+    position: absolute;
+    width: 110px;
+    height: 6px;
+    top:70px;
+    left: 180px;
+    background: #DCDCE5;
+    border-radius: 5px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.progress-res{
+    position: absolute;
+    width: 55px;
+    height: 6px;
+
+    background: #5E81F4;
+    border-radius: 5px;
+}
+.percent{
+    /* 25% */
+
+position: absolute;
+width: 29px;
+height: 21px;
+left: 310px;
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* red */
+color: #FF808B;
+
+
+}

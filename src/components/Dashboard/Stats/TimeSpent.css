@@ -1,0 +1,37 @@
+.headin{
+    /* Time Spent on Learning */
+
+position: absolute;
+width: 202px;
+height: 26px;
+left: 10px;
+top: 10px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 26px;
+
+color: #111026;
+
+}
+.select{
+    /* Last week */
+
+    position: absolute;
+    width: 100px;
+    height: 24px;
+    right: 14px;
+    top: 10px;
+    text-decoration: none;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    border: 0px;
+    color: #111026;
+
+
+}

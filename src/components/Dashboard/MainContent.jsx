@@ -1,7 +1,7 @@
 import React from 'react'
 import Courses from './Courses'
 import Search from './Search'
-import Stats from './Stats'
+import Stats from './Stats/Stats'
 import WelcomeComp from './WelcomeComp'
 const MainContent = () => {
   return (
