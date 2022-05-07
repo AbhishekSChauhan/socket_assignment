@@ -4,7 +4,7 @@ import './RightPanel.css'
 const RightPanel = () => {
   return (
     <div className='RightPanel'>
-      <div>
+      <div className='logout-container'>
         <Logout />
       </div>
     </div>

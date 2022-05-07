@@ -1,0 +1,19 @@
+div > p {
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 40px;
+    top: 20px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #000000;
+}
+.logout-icon{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 42px;
+    right: 21.67%;
+}
