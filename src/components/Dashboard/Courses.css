@@ -1,0 +1,56 @@
+.course-container{
+    position: relative;
+    /* bottom: 0px; */
+}
+.your-course{
+position: absolute;
+width: 111px;
+height: 26px;
+left: 3px;
+top: 580px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+
+color: #111026;
+
+
+}
+.arr-icon{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 45px;
+    top: 5px;
+}
+
+.more{
+position: absolute;
+width: 40px;
+height: 24px;
+right: 25px;
+top: 580px;
+
+/* paragraph */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #111026;
+
+
+
+}
+.course-1{
+    float: left;
+}
+.course-2{
+    float: left;
+}
+.course-3{
+    float: right;
+}

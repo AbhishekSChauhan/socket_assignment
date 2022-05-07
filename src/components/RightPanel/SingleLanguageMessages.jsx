@@ -5,7 +5,7 @@ import './SingleLanguageMessages.css'
 const SingleLanguageMessages = ({icon,message,time,bgColor}) => {
   return (
     <div className='language-msg-container'>
-        <div className='box1'>
+        <div>
         <Box status={icon} textColour='black' bgColor={bgColor} />
         </div>
         <div>

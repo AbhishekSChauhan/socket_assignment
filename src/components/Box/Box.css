@@ -1,11 +1,17 @@
 .box{
     position: relative;
-    width: 26px;
-    height: 25px;
-    padding: 14px;    
+    width: 53px;
+    height: 54px;
     background: #F5F5F7;
     border-radius: 12px;
-    /* display: flex;
-    justify-content: center; */
+    
+}
+.box-content{
+    position: absolute;
+    top:0px;
+    left:10px;
+    display: flex;
+    justify-content: center;
+
 }
 

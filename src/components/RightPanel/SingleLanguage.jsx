@@ -4,7 +4,7 @@ import './SingleLanguage.css'
 const SingleLanguage = ({status,language,level}) => {
   return (
     <div className='single-language-container'>
-        <div className='box1'>
+        <div>
         <Box status={status} textColour='black' />
         </div>
         <div className='lang-content'>
