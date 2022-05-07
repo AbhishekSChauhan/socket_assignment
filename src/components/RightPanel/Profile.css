@@ -1,0 +1,36 @@
+.avatar{
+    /* Ellipse 1 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 169px;
+    height: 171px;
+    left: 151px;
+    top: 130px;
+
+    background: url('https://images.pexels.com/photos/2406949/pexels-photo-2406949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    /* light blue */
+    border: 7px solid #F5F5FB;
+
+}
+div.name{
+    position: absolute;
+    width: 141px;
+    height: 30px;
+    left: 1585px;
+    top: 331px;
+
+    /* Headers */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #111026;
+}
+div{
+    background-color: #111026;
+}

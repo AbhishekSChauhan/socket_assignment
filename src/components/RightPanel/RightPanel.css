@@ -3,8 +3,25 @@
     height:100vh;
     background-color: #fff;
     text-align: center;
+    position: relative;
     /* padding-top: 40px; */
 }
 .logout-container{
     padding-top: 25px; 
+}
+.profile-container{
+    position: absolute;
+    top: 15%;
+    left: 37%;
+}
+.language-container{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+.langDeatails-container{
+    position: absolute;
+    bottom: 15%;
+    left: 10%;
+
 }
